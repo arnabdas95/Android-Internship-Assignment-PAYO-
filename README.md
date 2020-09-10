@@ -8,6 +8,8 @@ This app is a simple demonstration of a login system through android and java.
 ● **My Profile:** Add the left side drawer ( hamburger menu) with the " My profile" menu. On click on the ‘ My Profile’ menu, the profile screen will open which will show all the profile data which was added in the Sign-up form.<br/><br/>
 ● **Logout:** On click on the logout button, the user should be redirected to the login form. Bonus Points: Sort the list of records ( created on home screen) by first name &amp; last name. Sorting should be done in the front-end. Sorting should be done separately for each page.<br/>
 
+## Database used 
+- ....
 ## Screenshots
 - add photoes of the app
 
